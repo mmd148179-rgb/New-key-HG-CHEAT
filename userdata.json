@@ -100,5 +100,11 @@
         "key": "FRFAGUN",
         "expirydate": "20-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "b85a6062c9f99851",
+        "key": "ahsan",
+        "expirydate": "28-10-2025",
+        "Allowoffline": false
     }
 ]
