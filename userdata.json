@@ -10,23 +10,5 @@
         "key": "key67890",
         "expirydate": "15-06-2025",
         "Allowoffline": false
-    },
-     {
-        "device_id": "609ee41759720291",
-        "key": "1234",
-        "expirydate": "28-10-2025",
-        "Allowoffline": false
-     },
-     {
-        "device_id": "8abeb6f91a496306",
-        "key": "sadhin",
-        "expirydate": "19-10-2025",
-        "Allowoffline": false
-     },
-    {
-        "device_id": "218399ad61797d60",
-        "key": "1234",
-        "expirydate": "19-10-2025",
-        "Allowoffline": false
-     }
+    }
 ]
