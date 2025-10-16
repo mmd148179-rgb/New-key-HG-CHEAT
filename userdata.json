@@ -64,5 +64,11 @@
         "key": "abir",
         "expirydate": "19-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "010f8dcadd5b5f5d",
+        "key": "mahim",
+        "expirydate": "19-10-2025",
+        "Allowoffline": false
     }
 ]
