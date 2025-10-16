@@ -94,5 +94,11 @@
         "key": "sadhin",
         "expirydate": "24-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "6aff75d1acb4d249",
+        "key": "FRFAGUN",
+        "expirydate": "20-10-2025",
+        "Allowoffline": false
     }
 ]
