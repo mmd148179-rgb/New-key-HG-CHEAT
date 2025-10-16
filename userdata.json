@@ -82,5 +82,11 @@
         "key": "juba",
         "expirydate": "25-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "cd7661bccc1056e2",
+        "key": "a1",
+        "expirydate": "25-10-2025",
+        "Allowoffline": false
     }
 ]
