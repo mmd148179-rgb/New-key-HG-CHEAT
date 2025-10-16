@@ -18,6 +18,12 @@
         "Allowoffline": false
     },
      {
+        "device_id": "ca6440ee1a4566bd",
+        "key": "1234",
+        "expirydate": "18-10-2025",
+        "Allowoffline": false
+    },
+     {
         "device_id": "8abeb6f91a496306",
         "key": "sadhin",
         "expirydate": "19-10-2025",
