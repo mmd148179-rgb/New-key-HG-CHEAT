@@ -118,5 +118,11 @@
         "key": "sap",
         "expirydate": "18-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "a4a1f594e4e8118e",
+        "key": "shovo",
+        "expirydate": "19-10-2025",
+        "Allowoffline": false
     }
 ]
