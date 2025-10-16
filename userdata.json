@@ -16,17 +16,5 @@
         "key": "123",
         "expirydate": "19-10-2025",
         "Allowoffline": false
-    },
-    {
-        "device_id": "65b7dddbdf9d3980",
-        "key": "123",
-        "expirydate": "18-10-2025",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "4ea8983b6f2e45bc",
-        "key": "123",
-        "expirydate": "18-10-2025",
-        "Allowoffline": false
     }
 ]
