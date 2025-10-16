@@ -106,5 +106,11 @@
         "key": "ahsan",
         "expirydate": "28-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "2636bc7c99f8e37c",
+        "key": "rahman",
+        "expirydate": "19-10-2025",
+        "Allowoffline": false
     }
 ]
