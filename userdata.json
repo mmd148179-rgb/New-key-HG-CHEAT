@@ -52,5 +52,11 @@
         "key": "saimon",
         "expirydate": "19-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "65b7dddbdf9d3980",
+        "key": "ankit",
+        "expirydate": "19-10-2025",
+        "Allowoffline": false
     }
 ]
