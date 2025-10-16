@@ -46,5 +46,11 @@
         "key": "maruf",
         "expirydate": "19-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "32094fa6559bfef5",
+        "key": "saimon",
+        "expirydate": "19-10-2025",
+        "Allowoffline": false
     }
 ]
