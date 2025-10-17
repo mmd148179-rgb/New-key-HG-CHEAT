@@ -130,5 +130,11 @@
         "key": "bron",
         "expirydate": "20-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "2636bc7c99f8e37c",
+        "key": "rahim",
+        "expirydate": "20-10-2025",
+        "Allowoffline": false
     }
 ]
