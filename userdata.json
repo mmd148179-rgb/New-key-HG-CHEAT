@@ -202,6 +202,12 @@
         "key": "paid1020",
         "expirydate": "25-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "e67aca22f0d0437b",
+        "key": "paid2030",
+        "expirydate": "25-10-2025",
+        "Allowoffline": false
     }
 
 ]
