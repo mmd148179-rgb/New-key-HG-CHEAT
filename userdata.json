@@ -194,7 +194,7 @@
     {
         "device_id": "16a0569504959110",
         "key": "11",
-        "expirydate": "28-10-2025",
+        "expirydate": "18-10-2025",
         "Allowoffline": false
     },
     {
@@ -230,6 +230,12 @@
     {
         "device_id": "107a7786cd0eca28",
         "key": "rofiqul1",
+        "expirydate": "26-10-2025",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "5ffa0a8e449a19a3",
+        "key": "rr1",
         "expirydate": "26-10-2025",
         "Allowoffline": false
     }
