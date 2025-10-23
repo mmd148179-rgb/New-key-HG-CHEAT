@@ -226,6 +226,12 @@
         "key": "paid190",
         "expirydate": "28-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "107a7786cd0eca28",
+        "key": "rofiqul1",
+        "expirydate": "26-10-2025",
+        "Allowoffline": false
     }
 
 ]
