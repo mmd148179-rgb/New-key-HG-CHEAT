@@ -238,6 +238,12 @@
         "key": "rr1",
         "expirydate": "26-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "3dc99835a97a9971",
+        "key": "rr11",
+        "expirydate": "28-10-2025",
+        "Allowoffline": false
     }
 
 ]
