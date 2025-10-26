@@ -256,6 +256,12 @@
         "key": "rr15",
         "expirydate": "29-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "a6fea92c06c8a1ad",
+        "key": "rr16",
+        "expirydate": "29-10-2025",
+        "Allowoffline": false
     }
 
 ]
